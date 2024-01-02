@@ -1,0 +1,171 @@
+.background-image > img {
+    opacity: 40%;
+    position: absolute;
+    left:0;
+    top:0;
+    z-index: -1;
+
+}
+.text{
+   
+    
+    font-family: 'Cardo', serif;
+    font-family: 'Exo 2', sans-serif;
+}
+.lead{
+    font-family: 'Cardo', serif;
+    
+    
+}
+.certificates{
+    color:beige;
+    padding:0;
+    text-align: center;
+    font-family: 'Cardo', serif;
+}
+.text2{
+    font-family: 'Cardo', serif;
+}
+.logo{
+    align-items: center;
+
+}
+.margins{
+    margin:0;
+}
+
+   
+.nav-bar{
+    color: beige;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    gap:50px;
+    position: absolute;
+    font-family: 'Cardo', serif;
+}
+body{
+    background-color:rgb(20, 15, 15);
+}
+
+.lead{
+    color:beige;
+}
+
+.footer{
+    color:beige;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
